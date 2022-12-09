@@ -12,5 +12,7 @@ public class Example {
         //There will be output or not.
 
         //This is trial version.
+
+
     }
 }
